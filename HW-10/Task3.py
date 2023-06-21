@@ -94,7 +94,6 @@ class PathWork:
             print('\033[91mНе могу выполнить операцию, создайте файлы с числами и именами.\033[0m')
 
 
-
 if __name__ == '__main__':
     path = r'C:\Users\Narendill\Desktop\9_Pogr_in_Python\HW\HW-10'
     test = PathWork(path)
